@@ -1,4 +1,4 @@
-# certificate_confirmation_tool
+# Certificate Confirmation Tool
 
 This Python notebook presents a solution designed to automate the verification process for digital certificates. The tool cross-references learner-provided certificates against a predefined set of examples, ensuring authenticity and integrity through both visual and textual comparison metrics. Key features include:
 
